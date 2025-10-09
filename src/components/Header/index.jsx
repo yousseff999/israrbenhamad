@@ -50,7 +50,7 @@ export default function Index() {
                     <p className={styles.copyright}>©</p>
                     <div className={styles.name}>
                         <p className={styles.codeBy}>Code by</p>
-                        <p className={styles.Youssef}>Youssef</p>
+                        <p className={styles.Youssef}>Zammit Youssef</p>
                         
                     </div>
                 </div>
