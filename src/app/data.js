@@ -20,7 +20,7 @@ Translating scripts into immersive worlds where design supports emotion and narr
 		color: '#e9e1cb',
 	},
     {
-		title: '"Sondos (Season 2)" – Saudi television series – Saudi Arabia – 2024',
+		title: '"Sondos (Season 2)" – Saudi television series – Saudi Arabia – (2024)',
 		description: `Set Decoration & Visual Continuity: Designed and dressed sets that preserved the series’ signature aesthetic while introducing new elements to reflect the emotional evolution of the story.`,
 		description2: `Atmospheric Detailing: Used color palettes, props, and textures to evoke both modern refinement and cultural authenticity — creating spaces that visually communicate character depth.`,
 		description3: `Narrative Support: Enhanced the director’s vision by shaping immersive environments that heighten the trailer’s emotional impact and reinforce the tone of Season 2.`,
@@ -46,7 +46,7 @@ Created immersive set pieces that captured the film’s mystical and symbolic at
 		color: '#ded9d5',
 	},
 	{
-		title: '"Aljayda" – Film - Tunisia - 2020)',
+		title: '"Aljayda" – Film - Tunisia - (2020)',
 		description: `Decor – El Jaida (Film by Selma Baccar) Feature Film : Designed historically authentic set environments reflecting 1950s Tunisia.`,
 		description2: `Enhanced the emotional depth of women’s struggles through symbolic décor choices.`,
         description3: `Supported the director’s vision by blending realism with cultural storytelling.`,
@@ -125,7 +125,7 @@ Created immersive set pieces that captured the film’s mystical and symbolic at
 		color: '#9a8d81',
 	},
 	{
-		title: 'KASO – MECHI W MKHOLI (BOX PERFORMANCE / FEELINGS) Music Video - Tunisia',
+		title: '"KASO" – MECHI W MKHOLI (BOX PERFORMANCE / FEELINGS) Music Video - Tunisia',
 		description: `Artistic Set Direction: Designed immersive and visually engaging sets that capture the energy and mood of the performance.`,
 		description2: `Team Collaboration: Coordinated with the director, cinematographer, and production team to align sets with the overall visual storytelling.`,
 		description3: `Execution & Oversight: Managed the construction and styling of set elements, ensuring consistency, detail, and high-quality presentation.`,
@@ -134,7 +134,7 @@ Created immersive set pieces that captured the film’s mystical and symbolic at
 		color: '#928578',
 	},
 	{
-		title: 'KASO – “Melli Sar” (Box Performance – Feelings) - Tunisia',
+		title: '"KASO" – “Melli Sar” (Box Performance – Feelings) - Tunisia',
 		description: `Visual Identity & Set Direction: Participated in crafting a minimalist yet powerful performance setup that visually amplifies KASO’s emotional delivery. The concept balances raw authenticity with refined cinematic aesthetics.`,
 		description2: `Creative Intent:
 Designed the mood and spatial composition to highlight feelings as the core theme — using contrast, lighting, and camera framing to translate emotion into atmosphere.`,
