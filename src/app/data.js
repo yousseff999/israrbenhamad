@@ -8,7 +8,7 @@ Guiding the creative vision of film and series productions with a balance of aes
 		description3: `Visual Storytelling :
 Translating scripts into immersive worlds where design supports emotion and narrative.`,
 		src: 'https://res.cloudinary.com/drbydzhzz/image/upload/v1759927973/israr2_vcuqow.png',
-		color: '#F5F3F0',
+		color: '#e9e1cb',
 	},
 
 	{
@@ -16,11 +16,11 @@ Translating scripts into immersive worlds where design supports emotion and narr
 		description: ``,
 		description2: ``,
 		description3: ``,
-		src: 'https://res.cloudinary.com/drbydzhzz/image/upload/v1759927998/w_hjttue.png',
-		color: '#F5F3F0',
+		src: 'back.png',
+		color: '#e9e1cb',
 	},
     {
-		title: 'SONDOS – Saudi drama television series',
+		title: '"Sondos (Season 2)" – Saudi television series – Saudi Arabia – 2024',
 		description: `Set Decoration & Visual Continuity: Designed and dressed sets that preserved the series’ signature aesthetic while introducing new elements to reflect the emotional evolution of the story.`,
 		description2: `Atmospheric Detailing: Used color palettes, props, and textures to evoke both modern refinement and cultural authenticity — creating spaces that visually communicate character depth.`,
 		description3: `Narrative Support: Enhanced the director’s vision by shaping immersive environments that heighten the trailer’s emotional impact and reinforce the tone of Season 2.`,
@@ -28,7 +28,7 @@ Translating scripts into immersive worlds where design supports emotion and narr
 		color: '#edeae7',
 	},
 	{
-		title: '"Lel Mout 2" – Shahid Original Series (Ramadan 2022)',
+		title: '"Lel Mout 2" – Shahid Original Series – Saudi Arabia – (Ramadan 2022)',
 		description: `Cinematic Set Decoration: Designed emotionally charged environments that visually echo the intensity and drama of the storyline, enhancing the series’ dark romantic atmosphere.`,
 		description2: `Symbolic Detailing: Integrated color palettes, props, and textures to represent conflict, love, and betrayal—amplifying the psychological depth of each scene.`,
 		description3: `Collaboration & Execution: Worked closely with directors and production teams to ensure visual consistency across episodes, maintaining the high-end aesthetic of Shahid’s Ramadan productions.`,
@@ -36,7 +36,7 @@ Translating scripts into immersive worlds where design supports emotion and narr
 		color: '#e5e2de',
 	},
 	{
-		title: 'Barzakh',
+		title: '"Barzakh" – Short film - Tunisia - (2024)',
 		description: `Décor – Barzakh (The Dying Of The Light):
 Created immersive set pieces that captured the film’s mystical and symbolic atmosphere.`,
 		description2: `Shaped visual spaces that bridge reality and the afterlife, enhancing the teaser’s haunting tone.`,
@@ -46,8 +46,8 @@ Created immersive set pieces that captured the film’s mystical and symbolic at
 		color: '#ded9d5',
 	},
 	{
-		title: 'Aljayda',
-		description: `Décor – El Jaida (Film by Selma Baccar) Feature Film : Designed historically authentic set environments reflecting 1950s Tunisia.`,
+		title: '"Aljayda" – Film - Tunisia - 2020)',
+		description: `Decor – El Jaida (Film by Selma Baccar) Feature Film : Designed historically authentic set environments reflecting 1950s Tunisia.`,
 		description2: `Enhanced the emotional depth of women’s struggles through symbolic décor choices.`,
         description3: `Supported the director’s vision by blending realism with cultural storytelling.`,
 		src: 'https://res.cloudinary.com/drbydzhzz/image/upload/v1759927851/aljayda_bzzm9g.png',
@@ -55,7 +55,7 @@ Created immersive set pieces that captured the film’s mystical and symbolic at
 		color: '#d6d1cb',
 	},
 	{
-		title: 'Metier',
+		title: '"Metier" - Short film - Tunisia - (2022)',
 		description: `Set Design for Personal Empowerment: Crafted environments that visually represent the journey of individuals finding pride and purpose in their professions.`,
 		description2: `Authentic Visual Storytelling: Designed spaces that resonate with the film's message, enhancing the narrative of overcoming societal judgments.`,
 		description3: `Collaborative Creative Process: Worked closely with the director and production team to ensure the set design aligned with the film's vision and themes.`,
@@ -64,7 +64,7 @@ Created immersive set pieces that captured the film’s mystical and symbolic at
 		color: '#cfc8c2',
 	},
 	{
-		title: 'TEASER_POUSSIERE_V02',
+		title: '"TEASER_POUSSIERE_V02" - Film - Tunisia - (2021)',
 		description: `Set Conceptualization: Designed a set that encapsulated the project's theme, providing a visual foundation for the teaser.`,
 		description2: `Artistic Direction: Collaborated with the creative team to ensure the set aligned with the desired aesthetic and mood.`,
 		description3:`Implementation: Managed the construction and styling of the set, ensuring all elements were in place for the shoot.`,
@@ -73,7 +73,7 @@ Created immersive set pieces that captured the film’s mystical and symbolic at
 		color: '#c7c0b9',
 	},
 	{
-		title: '"Yemma – Season 1"  Short Film',
+		title: '"Yemma (Season 1)" - Serie - Algeria - (2020)',
 		description: `Cultural Authenticity in Design: Developed sets that authentically represent Tunisian heritage, enhancing the film's cultural narrative.`,
 		description2: `Visual Storytelling: Designed environments that reflect the emotional depth and themes of the film, supporting the director's vision.`,
 		description3: `Set Construction & Management: Oversaw the building and arrangement of sets, ensuring timely and efficient execution within budget constraints.`,
@@ -82,7 +82,7 @@ Created immersive set pieces that captured the film’s mystical and symbolic at
 		color: '#c0b7b0',
 	},
 	{
-		title: '"Yemma – Season 2" Opening Credits (2021)',
+		title: '"Yemma (Season 2)" - Serie - Algeria - (2021)',
 		description: `Artistic Set & Visual Design: Contributed to the visual mood and design elements featured in the opening credits, blending traditional and modern aesthetics to reflect the series’ emotional themes.`,
 		description2: `Creative Collaboration: Worked alongside TMV Studios and Red Bolt Design to ensure a cinematic and cohesive opening sequence matching the tone of the show.`,
 		description3: `Cultural Expression: Integrated motifs and textures inspired by North African identity, enhancing the authenticity and visual storytelling of the series’ introduction.`,
@@ -90,7 +90,7 @@ Created immersive set pieces that captured the film’s mystical and symbolic at
 		color: '#b8afa6',
 	},
 	{
-		title: 'KAMIKAZ – Short Film (Official Competition, 13th National Festival of Professional Short Films, Tunis 2025)',
+		title: '"KAMIKAZ" – Short Film (Official Competition, 13th National Festival of Professional Short Films) - Tunis - (2024)',
 		description: `Visual Storytelling: Crafted the cinematography and scene composition to amplify tension, emotion, and narrative flow, translating complex themes into striking visuals.`,
 		description2: `Art Direction & Mood Design: Developed the visual tone, lighting, and spatial dynamics to balance realism with poetic cinematic expression.`,
 		description3: `Impact & Recognition: The film’s aesthetic and storytelling contributed to its selection in the official competition, reinforcing its emotional and artistic resonance with audiences.`,
@@ -98,7 +98,7 @@ Created immersive set pieces that captured the film’s mystical and symbolic at
 		color: '#b0a79d',
 	},
 	{
-		title: 'CHOUERREB 2 – (Tunisian TV Series)',
+		title: '"CHOUERREB (Saison 2)" – historical series - Tunisia - (2019)',
 		description: `Set Decoration & Styling: Contributed to the visual authenticity of the series by designing and dressing environments that reflect the raw energy and social texture of Tunisian street life.`,
 		description2: `Cinematic Atmosphere: Balanced realism with dramatic tension through detailed prop selection, color coordination, and spatial arrangement — enhancing the emotional depth of each scene.`,
 		description3: `Cultural Resonance: Helped shape a setting that immerses viewers in the narrative’s cultural and psychological layers, supporting the director’s vision with strong visual storytelling.`,
@@ -107,7 +107,7 @@ Created immersive set pieces that captured the film’s mystical and symbolic at
 		color: '#a99e94',
 	},
 	{
-		title: 'DIMAW - DC',
+		title: '"DIMAW - DC" - Short film - Tunisia - (2024)',
 		description: `Transforming Spaces: Crafted visually striking sets that bring the director’s vision to life, turning abstract ideas into tangible environments.`,
 		description2: `Story-Driven Design: Chose and arranged décor to enhance the mood, tone, and narrative flow of each scene.`,
 		description3: `Seamless Collaboration: Coordinated with the production and camera teams to ensure the set design elevated every shot.`,
@@ -116,7 +116,7 @@ Created immersive set pieces that captured the film’s mystical and symbolic at
 		color: '#a1968b',
 	},
 	{
-		title: 'KASO – MESSYEBA (INTRO – EP FEELINGS)  Music Video',
+		title: '"KASO" – MESSYEBA (INTRO – EP FEELINGS)  Music Video - Tunisia - (2024)',
 		description: `Creative Set Design: Conceived and executed visually striking sets that reflect the mood and narrative of the song, enhancing the storytelling experience.`,
 		description2: `Collaboration with Production Team: Worked closely with directors, cinematographers, and stylists to ensure each set complements the video’s artistic direction.`,
 		description3: `Project Management & Execution: Oversaw the construction and arrangement of set elements, ensuring smooth workflow on set and a polished final look.`,
@@ -125,7 +125,7 @@ Created immersive set pieces that captured the film’s mystical and symbolic at
 		color: '#9a8d81',
 	},
 	{
-		title: 'KASO – MECHI W MKHOLI (BOX PERFORMANCE / FEELINGS) Music Video',
+		title: 'KASO – MECHI W MKHOLI (BOX PERFORMANCE / FEELINGS) Music Video - Tunisia',
 		description: `Artistic Set Direction: Designed immersive and visually engaging sets that capture the energy and mood of the performance.`,
 		description2: `Team Collaboration: Coordinated with the director, cinematographer, and production team to align sets with the overall visual storytelling.`,
 		description3: `Execution & Oversight: Managed the construction and styling of set elements, ensuring consistency, detail, and high-quality presentation.`,
@@ -134,7 +134,7 @@ Created immersive set pieces that captured the film’s mystical and symbolic at
 		color: '#928578',
 	},
 	{
-		title: 'KASO – “Melli Sar” (Box Performance – Feelings)',
+		title: 'KASO – “Melli Sar” (Box Performance – Feelings) - Tunisia',
 		description: `Visual Identity & Set Direction: Participated in crafting a minimalist yet powerful performance setup that visually amplifies KASO’s emotional delivery. The concept balances raw authenticity with refined cinematic aesthetics.`,
 		description2: `Creative Intent:
 Designed the mood and spatial composition to highlight feelings as the core theme — using contrast, lighting, and camera framing to translate emotion into atmosphere.`,
@@ -145,7 +145,7 @@ The performance garnered over 1 million views, showcasing the strength of visual
 		color: '#8b7c6f',
 	},
 	{
-		title: 'Décor – A.L.A “IDK”',
+		title: 'Decor – "A.L.A “IDK”" - Music Video - Tunisia - (2023)',
 		description: `Curated and styled set decoration to enhance the video’s cinematic atmosphere.`,
 		description2: `Translated the director’s vision into authentic, mood-driven environments.`,
 		description3: `Added depth and visual cohesion, elevating the storytelling and aesthetic impact.`,
@@ -154,7 +154,7 @@ The performance garnered over 1 million views, showcasing the strength of visual
 		color: '#837466',
 	},
 	{
-		title: 'Set Designer – MADD — DRIVE (feat. SNOR)  Music Video',
+		title: 'Set Designer – "MADD" — DRIVE (feat. SNOR)  Music Video - Marroco - (2024)',
 		description: `Designed and built impactful set pieces that amplified the music video’s bold and cinematic aesthetic.`,
 		description2: `Translated the creative vision into immersive visuals, balancing modern styling with symbolic details.`,
 		description3: `Collaborated with directors, stylists, and production teams to ensure seamless integration of set design into the storytelling.`,
@@ -163,7 +163,7 @@ The performance garnered over 1 million views, showcasing the strength of visual
 		color: '#7b6c5c',
 	},
 	{
-		title: 'Yaychek - BH Director’s Cut',
+		title: '"Yaychek" - BH Director’s Cut - Tunisia - (2024)',
 		description: `Set Design & Styling: Crafted the visual environment, ensuring each element aligned with the artistic vision.`,
 		description2: `Collaboration with Creative Team: Worked closely with the director and creatives to enhance storytelling through the set.`,
 		description3: `Attention to Detail: Selected props, backdrops, and décor elements to immerse the audience in the scene.`,
@@ -172,7 +172,7 @@ The performance garnered over 1 million views, showcasing the strength of visual
 		color: '#746353',
 	},
 	{
-		title: 'Moussa Fennira – INTRO',
+		title: '"Moussa Fennira" – Short film - Tunisia - (2023)',
 		description: `Designed and built authentic sets that visually anchored the narrative, enhancing the emotional journey of the protagonist.`,
 		description2: `Collaborated with the director, cinematographer, and production team to create seamless visual atmospheres that aligned with the film’s creative vision.`,
 		description3: `Led the art department, managing assistants and on-site construction to deliver impactful environments on tight production schedules.`,
@@ -181,7 +181,7 @@ The performance garnered over 1 million views, showcasing the strength of visual
 		color: '#6c5b4a',
 	},
 	{
-		title: 'IZI – Zitouna Payment (Advertisement Vidéo)',
+		title: '"IZI" – Zitouna Payment (Advertisement Vidéo) - Tunisia - (2024)',
 		description: `Visual Environment Crafting: Created sets that emphasize convenience, modernity, and ease—reinforcing the brand message of seamless financial services.`,
 		description2: `Brand-Centric Design: Integrated the logo, color palette, and visual identity of IZI into the décor to keep the imagery consistent with branding.`,
 		description3: `Emotional Connection through Space: Built environments that feel relatable and human, making viewers connect with the service’s promise of comfort and trust.`,
@@ -190,7 +190,7 @@ The performance garnered over 1 million views, showcasing the strength of visual
 		color: '#655241',
 	},
 	{
-		title: 'CRK Maroquinerie – Winter Campaign “Touch The Gold”',
+		title: '"CRK Maroquinerie" – Winter Campaign “Touch The Gold” - Tunisia - (2024)',
 		description: `Luxury-Centric Visual Design :
 Developed refined set environments that highlight the elegance of CRK’s leather goods, ensuring every frame reflects sophistication and exclusivity.`,
 		description2: `Artistic Use of Contrast & Texture :
@@ -202,7 +202,7 @@ Collaborated closely with stylists and photographers to craft a visual atmospher
 		color: '#5d4a37',
 	},
 	{
-		title: 'Maxxx Chips – AFCON 2024 Campaign',
+		title: '"Maxxx Chips" – AFCON 2024 Campaign - Tunisia - (2024)',
 		description: `Sports-Inspired Visual Storytelling :
 Designed dynamic visuals that capture the passion of football, blending national pride with the energy of AFCON 2024.`,
 		description2: `Youth-Oriented Creative Direction :
@@ -214,7 +214,7 @@ Balanced football culture and product placement, ensuring the campaign resonates
 		color: '#56412e',
 	},
 	{
-		title: 'Xiaomi Tunisia – Redmi Note 11 Series "Rise to the Challenge"',
+		title: '"Xiaomi" – Redmi Note 11 Series "Rise to the Challenge" - Tunisia - (2023)',
 		description: `odern Tech Aesthetics :
 Created sleek and innovative set designs to highlight the cutting-edge features of the Redmi Note 11 Series.`,
 		description2: `Youthful & Energetic Visuals :

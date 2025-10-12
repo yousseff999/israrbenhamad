@@ -164,9 +164,9 @@
 
     .description{
       position: absolute;
-      top: 48%;
-      left: 65%;
-      color: white;
+      top: 52%;
+      left: 68%;
+      color: rgba(0, 0, 0, 0.775);
       font-weight: 300;
       p{
         font-family: Lexend;
@@ -178,7 +178,7 @@
       }
       p:hover{
         cursor: default;      
-        background: linear-gradient(45deg, #dafff8 0%, #c1ff5dcd 100%);
+        background: linear-gradient(45deg, #6a390ead 0%, #6a390ead 100%);
         color: transparent;
         background-clip: text;
         transition: color 0.3s ease-in-out;

@@ -82,7 +82,7 @@ export default function Home() {
 		}
 		gsap.set(firstText.current, { xPercent: xPercent });
 		gsap.set(secondText.current, { xPercent: xPercent });
-		xPercent += 0.03 * direction;
+		xPercent += 0.02 * direction;
 		requestAnimationFrame(animate);
 	};
 
@@ -98,19 +98,19 @@ export default function Home() {
   src="/images/israrcover.jpg"
   alt="background"
   priority={true}
-  width={1700}  // adjust
+  width={1300}  // adjust
   height={1500}  // adjust
   style={{ objectFit: "cover", margin: "0 auto" }}
 />
-			<div className={styles.sliderContainer}>
-				<div ref={slider} className={styles.slider}>
-					<div>
-						<p ref={firstText} style={{ fontSize: "8.5rem" }}>Israr Benhamad —</p>
-<p ref={secondText} style={{ fontSize: "8.5rem" }}>Israr Benhamad —</p>
+			<div className={styles.sliderContainer} style={{ marginTop: "9rem" }}>
+  <div ref={slider} className={styles.slider}>
+    <div>
+      <p ref={firstText} style={{ fontSize: "4rem" }}>Israr Benhamad — Israr Benhamad —</p>
+      <p ref={secondText} style={{ fontSize: "4rem" }}>Israr Benhamad — Israr Benhamad —</p>
+    </div>
+  </div>
+</div>
 
-					</div>
-				</div>
-			</div>
 			<div
 				data-scroll
 				data-scroll-speed={0.1}
@@ -140,7 +140,7 @@ export default function Home() {
 						fill="url(#grad1)"
 					/>
 				</svg>
-				<p>Cinematic Set Decorator</p>
+				<p>Cinematic Art Decorator</p>
 				<p>Creative Visionary & Storytelling Designer</p>
                 <p>Based in KSA {time}</p>
 			</div>

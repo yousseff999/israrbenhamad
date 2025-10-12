@@ -22,7 +22,7 @@ export default function index() {
                 }
                 </p>
                 <motion.p variants={slideIn} animate={isInView ? "open" : "closed"}>
-I am a Set Decorator and Art Director with a decade of experience shaping the visual identity of films and series. My craft lies in creating authentic environments that enrich storytelling, blending artistic vision with meticulous detail to transform imagination into reality.                
+I am Israr Benhamad, originally from Tunisia and based in Riyadh, Saudi Arabia, I am an Art Director, Set Designer, and Props Supervisor with a decade of experience shaping the visual identity of films and series. My craft lies in creating authentic environments that enrich storytelling, blending artistic vision with meticulous detail to transform imagination into reality.                
                 </motion.p>
                 <div data-scroll data-scroll-speed={0.1}>
                     <Magnetic>
