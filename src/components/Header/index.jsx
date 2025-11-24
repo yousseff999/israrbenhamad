@@ -2,7 +2,7 @@
 import { useRef, useState, useEffect } from 'react';
 import styles from './style.module.scss';
 import { AnimatePresence } from 'framer-motion';
-import Nav from './Nav';
+import Nav from './nav';
 import Rounded from '../../common/RoundedButton';
 import Magnetic from '../../common/Magnetic';
 import gsap from 'gsap';
